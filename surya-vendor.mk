@@ -138,11 +138,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
-    WfdService \
     PowerOffAlarm \
-    QtiTelephonyService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    WfdCommon \
     com.nxp.nfc
